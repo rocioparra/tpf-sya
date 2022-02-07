@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="15.0.0.0"
+    CreationTime="2020-04-02 13:16:49 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="LBP_PLC_Comfort_V16.TP900 Comfort_1[TP900 Comfort]"
+    RtProjectFolderName="LBP_PLC_Comfort_V16.TP900 Comfort_1[TP900 Comfort]"
+    DeviceType="TP900 Comfort"
+    DisplayOrientation="0"
+    RTReleaseNo="15.0.0.3"
+    ImageReleaseNo="15.0.0.3"
+    RTCV="15.0.0.3"
+    PRCV="15.0.0.3"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="CP_7_9" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+  <FullDownload>SmartServer.rld</FullDownload>
+</DownloadTask>
